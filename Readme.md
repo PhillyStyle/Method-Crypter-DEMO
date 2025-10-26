@@ -1,6 +1,8 @@
 # Method Crypter DEMO
 Encrypt Your Methods ***Inside Your EXEs!*** (In C# 4.8)
 
+## This Project has been superseded by Method Crypter DEMO 2 [https://github.com/PhillyStyle/Method-Crypter-DEMO-2](https://github.com/PhillyStyle/Method-Crypter-DEMO-2)
+
 ![Method Crypter GUI](MethodCrypterScreenShot.png?raw=true)
 
 Also do other fun stuff like: 
